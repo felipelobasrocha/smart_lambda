@@ -1,0 +1,9 @@
+.idea/
+.vscode/
+*.pyc
+*.zip
+*.csv
+__pycache__/
+venv/
+*.sql
+*.mongo
